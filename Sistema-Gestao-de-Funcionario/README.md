@@ -9,7 +9,7 @@ Tecnologias
 Java 17
 Spring Boot
 Spring Data JPA
-MySQL
+H2
 Maven
 
 Funcionalidades
@@ -22,7 +22,7 @@ Listagem
 Atualização
 Exclusão
 
-1️⃣ Visão do Produto (Product Vision)
+1️ - Visão do Produto (Product Vision)
 
 Problema: Empresas têm dificuldade em controlar informações de funcionários, salários e cargos de forma organizada.
 
@@ -44,9 +44,16 @@ Facilidade de manutenção
 
 Redução de erros manuais
 
-👉 Isso você coloca no README e no currículo.
 
-2️⃣ Backlog do Produto (priorizado) Prioridade User Story Alta Cadastrar funcionário Alta Listar funcionários Alta Atualizar funcionário Alta Excluir funcionário Média Buscar funcionário por cargo Média Calcular folha salarial Baixa Exportar relatório 3️⃣ User Stories (modelo profissional)
+2️ - Backlog do Produto (priorizado) Prioridade 
+
+User Story Alta Cadastrar funcionário Alta 
+Listar funcionários Alta
+ Atualizar funcionário Alta 
+ Excluir funcionário Média 
+ Buscar funcionário por cargo Média Calcular folha salarial Baixa Exportar relatório
+ 
+ 3️ -  User Stories (modelo profissional)
 
 US01 – Cadastrar Funcionário
 
@@ -74,7 +81,7 @@ US04 – Excluir Funcionário
 
 Como administrador Quero excluir um funcionário Para remover registros inválidos
 
-4️⃣ Arquitetura Técnica (lado Dev) Tecnologias
+4️ - Arquitetura Técnica (lado Dev) Tecnologias
 
 Java 17
 
